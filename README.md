@@ -1,3 +1,7 @@
+<!-- ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png) -->
+
+<!-- # Módulo 3: Prompt Engineering y Automatización con Copilot -->
+
 # LAB | Prompt Engineering y Automatización con Copilot
 
 ## Introducción
@@ -11,7 +15,7 @@ Accede a Copilot vía esta [URL](https://copilot.cloud.microsoft). Si estás log
 
 **Objetivo:** Practicar la construcción de prompts complejos y específicos para obtener resultados precisos y relevantes en tareas relacionadas con la digitalización y automatización.
 
-Para realizar las prácticas busca los documentos a utilizar por Internet. A posterior, consulta al departamento correspondiente la viabilidad de subir archivos relacionados con CTAG
+Para realizar las prácticas busca los documentos a utilizar por Internet. A posterior, consulta al departamento correspondiente la viabilidad de subir archivos relacionados con Acciona
 
 ### Tarea 1: Extracción de Datos de Facturas (Imagen)
 
@@ -130,8 +134,8 @@ Actúa como un analista de reuniones. Te proporciono la transcripcion de una reu
 Necesito tu ayuda para crear un chatbot de soporte técnico para mi nuevo producto.  
 Información del producto:
 
-* Nombre: luz cegadora de jabalíes
-* Descripción: evitar accidentes ahuyentando al animal con luces y chorros del limpiaparabrisas
+* Nombre: Afectación de aerogeneradores en aves
+* Descripción: evitar accidentes ahuyentando al animal con luces y chorros desde las palas
 Tareas:
 1. Genera una lista de 5 a 10 preguntas frecuentes (FAQs)  que los usuarios podrían tener sobre este producto.
 2. Crea un script básico para un chatbot que pueda responder a esas preguntas.  El chatbot debe ser amigable, brindar respuestas claras y concisas, y ofrecer opciones adicionales si el usuario necesita más información.  
@@ -167,7 +171,7 @@ No es necesario que el código del chatbot sea funcional, solo necesito un ejemp
 ```
 Imagina que soy un emprendedor y necesito ayuda para elaborar un plan de marketing digital para mi nueva idea de negocio. 
 Idea de negocio:
-ahuyentar jabalíes con el chorro del limpiaparabrisas
+ahuyentar aves con el chorro de las palas de los aerogeneradores
 Tareas:
 1.  Identifica y describe al público objetivo (target) ideal para esta idea de negocio. 
 2. Propón al menos 3 estrategias de marketing digital efectivas para llegar a ese público objetivo.  Sé específico y describe cómo se implementaría cada estrategia. 
